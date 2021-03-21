@@ -1,0 +1,5 @@
+/dataset
+/outputs
+*/.ipynb_checkpoints/*
+.vscode
+/src/__py__cache
