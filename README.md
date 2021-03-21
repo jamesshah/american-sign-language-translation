@@ -2,9 +2,9 @@
 
 ## About
 
-I did my best to write a very generalised piece of PyTorch Multi-class Image classification code that will work on any of the said type of application with little modification.
-
 This project converts [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) to English language in Real time video using Convolutional Neural Networks (CNNs).
+
+<img alt="American Sign Language" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/American_Sign_Language_ASL.svg/1200px-American_Sign_Language_ASL.svg.png">
 
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
